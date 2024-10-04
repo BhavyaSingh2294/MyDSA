@@ -22,7 +22,6 @@ public class LinearSearch {
 
         System.out.println("position is: "+(search(A,n)+1)+"th");
         sc.close();
-
     }
 }
 
